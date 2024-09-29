@@ -1,0 +1,21 @@
+.container {
+    margin: 0;
+    padding: 0;
+    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container p {
+    color: #333;
+    font-size: 100px;
+}
+
+.container button {
+    display: inline-block;
+    color: #333;
+    font-size: 50px;
+}
